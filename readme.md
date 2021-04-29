@@ -1,4 +1,4 @@
-# StoryBooks
+# Share-Story
 
 > Create public and private stories from your life
 
